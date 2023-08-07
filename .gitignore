@@ -1,4 +1,5 @@
-/paper
+paper/
+scripts/
 git.txt
 titles.txt
 /output/R/sem.R
